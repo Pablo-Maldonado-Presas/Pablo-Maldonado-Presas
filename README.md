@@ -1,10 +1,9 @@
 ### Hola 👋, soy Pablo
 #### Ingeniero informático y entusiasta de la tecnología
-Desarrollador y analista de datos apasionado, con experiencia en proyectos web, de Machine Learning y BI.
+Desarrollador y analista de datos apasionado, con experiencia en proyectos web y de Machine Learning y BI.
 
 Habilidades: PYTHON / SQL / DATA ANALYSIS / MACHINE LEARNING / WEB
 
-- 🔭 Estoy trabajando en proyectos web, de Machine Learning y de BI 
 - 📫 Cómo contactarme: LinkedIn 
 
 
